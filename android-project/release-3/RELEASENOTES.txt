@@ -1,0 +1,44 @@
+RELEASE NOTES
+
+    File       : RELEASENOTES.txt
+    Time-stamp : 2014-05-18T21:16 Sami Joutsijoki
+    Description: Release notes for release 3.
+
+VIDEO PRESENTATION ABOUT THE RELEASE
+    
+    URL: https://vimeo.com/95667155
+
+GENERAL INFO
+
+    All planned features were implemented, as well as
+    some minor bugfixes.
+
+PLANNED FEATURES FROM PRODUCT BACKLOG
+
+    Following features where planned for this release:
+
+    - User is able to save high score
+    - User is able to see high score
+    - User can pause the game
+    - User can hear music during the game
+
+IMPLEMENTED FEATURES
+
+    - User is able to save high score
+    - User is able to see high score
+    - User can pause the game
+    - User can hear music during the game
+
+FEATURES NOT IMPLEMENTED
+
+
+
+PLANNED FEATURES FOR NEXT RELEASE
+
+    - User can hear sound effects when smashing bugs
+    - User can put on own music during the game
+
+    Product backlog (PRODUCTBACKLOG.txt) has been updated to 
+    correspond to the new situation.
+
+End of file.

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <Button
+        android:id="@+id/hiScore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/startGame"
+        android:layout_alignRight="@+id/startGame"
+        android:layout_below="@+id/startGame"
+        android:layout_marginTop="64dp"
+        android:text="Hi-Score" />
+
+    <Button
+        android:id="@+id/exit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/hiScore"
+        android:layout_alignRight="@+id/hiScore"
+        android:layout_below="@+id/hiScore"
+        android:layout_marginTop="82dp"
+        android:text="Exit" />
+
+    <Button
+        android:id="@+id/startGame"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="71dp"
+        android:text="Start Game" />
+
+</RelativeLayout>

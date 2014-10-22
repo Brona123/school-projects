@@ -1,0 +1,14 @@
+From the following links you can figure out how to compile
+the application for your platform of choice.
+
+Windows:
+    http://qt-project.org/doc/qt-5/windows-deployment.html
+
+Linux:
+    http://qt-project.org/doc/qt-5/linux-deployment.html
+
+Mac OSX:
+    http://qt-project.org/doc/qt-5/macosx.html#deploying-applications-on-mac-os-x
+
+Android:
+    http://qt-project.org/doc/qt-5/deployment-android.html

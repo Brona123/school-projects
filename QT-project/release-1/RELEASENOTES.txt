@@ -1,0 +1,46 @@
+RELEASE NOTES
+
+    File       : RELEASENOTES.txt
+    Time-stamp : 2014-04-15T16:28 Sami Joutsijoki
+    Description: Release notes for release 1.
+
+VIDEO PRESENTATION ABOUT THE RELEASE
+
+    Video is coming in the next release, due to there not being much
+    to show at this point.
+
+GENERAL INFO
+
+    Multiplayer feature has been postponed due to lack of skills regarding
+    client/server related programming in c++. Some UI features have instead
+    been implemented earlier than intended.
+
+PLANNED FEATURES FROM PRODUCT BACKLOG
+
+    Following features where planned for this release:
+
+    - User is able to play TicTacToe against enemy AI.
+    - User is able to save results to database.
+    - User is able to view highscore list.
+
+IMPLEMENTED FEATURES
+
+    - User is able to play TicTacToe against enemy AI.
+    - User can select the size of the playfield between 3x3 -> 10x10
+    - User can select the amount of marks in a row needed for winning
+
+FEATURES NOT IMPLEMENTED
+
+    - User is able to save results to database.
+    - User is able to view highscore list.
+
+PLANNED FEATURES FOR NEXT RELEASE
+
+    - User can select between single player and multiplayer modes.
+    - User is able to save results to database.
+    - User is able to view highscore list.
+
+    Product backlog (PRODUCTBACKLOG.txt) has been updated to 
+    correspond to the new situation.
+
+End of file.

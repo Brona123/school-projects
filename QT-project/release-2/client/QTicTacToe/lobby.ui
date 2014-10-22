@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Lobby</class>
+ <widget class="QWidget" name="Lobby">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>497</width>
+    <height>516</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QSplitter" name="splitter_3">
+     <property name="orientation">
+      <enum>Qt::Vertical</enum>
+     </property>
+     <widget class="QLabel" name="label">
+      <property name="styleSheet">
+       <string notr="true">font: 75 14pt &quot;MS Sans Serif&quot;;
+color: rgb(20, 24, 255);</string>
+      </property>
+      <property name="text">
+       <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;Lobby&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+      </property>
+     </widget>
+     <widget class="QWidget" name="gridLayoutWidget">
+      <layout class="QGridLayout" name="gridLayout">
+       <item row="0" column="0">
+        <widget class="QSplitter" name="splitter_2">
+         <property name="orientation">
+          <enum>Qt::Horizontal</enum>
+         </property>
+         <widget class="QSplitter" name="splitter">
+          <property name="orientation">
+           <enum>Qt::Vertical</enum>
+          </property>
+          <widget class="QTextBrowser" name="textEdit"/>
+          <widget class="QLineEdit" name="lineEdit"/>
+         </widget>
+         <widget class="QListWidget" name="playerList"/>
+        </widget>
+       </item>
+      </layout>
+     </widget>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="challengeButton">
+     <property name="styleSheet">
+      <string notr="true">font: 75 14pt &quot;Comic Sans MS&quot;;
+color: rgb(32, 25, 255);</string>
+     </property>
+     <property name="text">
+      <string>Challenge</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="pushButton">
+     <property name="styleSheet">
+      <string notr="true">font: 75 14pt &quot;Comic Sans MS&quot;;
+color: rgb(32, 25, 255);</string>
+     </property>
+     <property name="text">
+      <string>Back to Main Menu</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,29 @@
+PRODUCT BACKLOG
+
+    File       : PRODUCTBACKLOG.txt
+    Time-stamp : 2014-05-13T19:53 Sami Joutsijoki
+    Description: Product Backlog is the master list of all functionality desired in 
+                 the product. 
+
+PRODUCT BACKLOG WITH RELEASES
+
+    RELEASE 1: 2014-04-16T08:30
+
+    - User is able to play TicTacToe against enemy AI.
+    - User can select the size of the playfield between 3x3 -> 10x10
+    - User can select the amount of marks in a row needed for winning
+
+    RELEASE 2: 2014-04-30T08:30
+
+    - User can select between single player and multiplayer modes.
+    - User can chat with other users in multiplayer mode.
+    - User can select the difficulty level of the opponent 
+      (easy and normal so far, hard and impossible possibly later).
+
+    RELEASE 3: 2014-05-14T08:30
+
+    - Fixed a bug where users in the lobby could see the chat
+      from the people in the game setup window.
+    - Removed all the UI components that had no functionality.
+
+End of file.

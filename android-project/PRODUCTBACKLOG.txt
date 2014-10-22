@@ -1,0 +1,35 @@
+PRODUCT BACKLOG
+
+    File       : PRODUCTBACKLOG.txt
+    Time-stamp : 2014-05-25T19:04 Sami Joutsijoki
+    Description: Product Backlog is the master list of all functionality desired in 
+                 the product. 
+
+PRODUCT BACKLOG WITH RELEASES
+
+    RELEASE 1: 2014-05-05T09:00
+
+    - User is able to play atleast one map
+    - User can exit the game
+    
+    RELEASE 2: 2014-05-12T09:00
+
+    - User can play three maps
+    - Added animation for ants
+    - Added additional backgrounds for maps
+    - User can now see the map progress
+
+    RELEASE 3: 2014-05-19T09:00
+
+    - User is able to save high score
+    - User is able to see high score
+    - User can pause the game
+    - User can hear music during the game
+
+    RELEASE 4: 2014-05-26T09:00
+
+    - User can hear sound effects when smashing bugs
+    - User can see performance after each stage
+    - UI improvements
+
+End of file.

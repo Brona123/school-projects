@@ -1,0 +1,48 @@
+RELEASE NOTES
+
+    File       : RELEASENOTES.txt
+    Time-stamp : 2014-05-11T15:44 Sami Joutsijoki
+    Description: Release notes for release 2.
+
+VIDEO PRESENTATION ABOUT THE RELEASE
+    
+    URL: https://vimeo.com/94835784
+
+GENERAL INFO
+
+    Three different maps were implemented,
+    animation for ants were added and different
+    movement patterns were added. Highscore adding
+    and viewing was postponed due to time constraints.
+
+PLANNED FEATURES FROM PRODUCT BACKLOG
+
+    Following features where planned for this release:
+
+    - User can play the whole game
+    - User is able to save high score
+    - User is able to see high score
+
+IMPLEMENTED FEATURES
+
+    - User can play three maps
+    - Added animation for ants
+    - Added additional backgrounds for maps
+    - User can now see the map progress
+
+FEATURES NOT IMPLEMENTED
+
+    - User is able to save high score
+    - User is able to see high score
+
+PLANNED FEATURES FOR NEXT RELEASE
+
+    - User is able to save high score
+    - User is able to see high score
+    - User can pause the game
+    - User can hear music during the game
+
+    Product backlog (PRODUCTBACKLOG.txt) has been updated to 
+    correspond to the new situation.
+
+End of file.

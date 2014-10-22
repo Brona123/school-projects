@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:visibility="invisible" >
+
+    <TextView
+        android:id="@+id/victoryWinText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="130dp"
+        android:text="You win" />
+
+    <Button
+        android:id="@+id/victoryContinueButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/victoryWinText"
+        android:text="Continue" />
+
+    <Button
+        android:id="@+id/victoryMainMenuButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/victoryContinueButton"
+        android:layout_alignBottom="@+id/victoryContinueButton"
+        android:layout_toLeftOf="@+id/victoryWinText"
+        android:text="Main Menu" />
+
+    <TextView
+        android:id="@+id/victoryStreakView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/victoryContinueButton"
+        android:layout_below="@+id/victoryWinText"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/victoryScoreView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/victoryMainMenuButton"
+        android:layout_below="@+id/victoryWinText"
+        android:text="TextView" />
+
+</RelativeLayout>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/gameLayout" >
+    
+	<fragment
+	    android:id="@+id/scoreFragment"
+	    android:name="fi.tamk.tiko.joutsijoki.bugsmash.ScoreFragment"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content" />
+	
+	<ProgressBar
+		android:id="@+id/mapProgressBar"
+		style="?android:attr/progressBarStyleHorizontal"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:maxHeight="16dp"
+		android:scrollbarSize="60dp"
+		android:max="100"
+		android:progress="0" />
+    
+	<FrameLayout
+	    android:id="@+id/gameArenaLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+        
+	    <fragment
+		    android:id="@+id/gameArenaFragment"
+		    android:name="fi.tamk.tiko.joutsijoki.bugsmash.GameArenaFragment"
+		    android:layout_width="match_parent"
+		    android:layout_height="match_parent" />
+
+	    <fragment
+		    android:id="@+id/victoryFragment"
+		    android:name="fi.tamk.tiko.joutsijoki.bugsmash.VictoryFragment"
+		    android:layout_width="match_parent"
+		    android:layout_height="match_parent" />
+    
+    </FrameLayout>
+</LinearLayout>

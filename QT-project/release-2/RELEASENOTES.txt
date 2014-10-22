@@ -1,0 +1,50 @@
+RELEASE NOTES
+
+    File       : RELEASENOTES.txt
+    Time-stamp : 2014-04-29T21:27 Sami Joutsijoki
+    Description: Release notes for release 2.
+
+VIDEO PRESENTATION ABOUT THE RELEASE
+
+    URL: https://vimeo.com/93295168
+    PW: tictactoe
+
+GENERAL INFO
+
+    Multiplayer mode has been successfully implemented.
+    Result saving and viewing were postponed due to time required
+    for multiplayer mode. Setting the difficulty of 
+    the enemy AI has been somewhat implemented, though hard and 
+    impossible difficulties will be coming in the future.
+
+PLANNED FEATURES FROM PRODUCT BACKLOG
+
+    Following features where planned for this release:
+
+    - User can select between single player and multiplayer modes.
+    - User is able to save results to database.
+    - User is able to view highscore list.
+
+IMPLEMENTED FEATURES
+
+    - User can select between single player and multiplayer modes.
+    - User can chat with other users in multiplayer mode.
+    - User can select the difficulty level of the opponent 
+      (easy and normal so far, hard and impossible possibly later).
+
+FEATURES NOT IMPLEMENTED
+
+    - User is able to save results to database.
+    - User is able to view highscore list.
+
+PLANNED FEATURES FOR NEXT RELEASE
+
+    - Users can set a time limit for each player's turn.
+    - User is able to save results to database.
+    - User is able to view highscore list.
+    - Users can see each other's previous results.
+
+    Product backlog (PRODUCTBACKLOG.txt) has been updated to 
+    correspond to the new situation.
+
+End of file.

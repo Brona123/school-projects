@@ -1,0 +1,45 @@
+RELEASE NOTES
+
+    File       : RELEASENOTES.txt
+    Time-stamp : 2014-05-13T19:43 Sami Joutsijoki
+    Description: Release notes for release 3.
+
+VIDEO PRESENTATION ABOUT THE RELEASE
+
+    No video was made about the release, since
+    no additional features were added.
+
+GENERAL INFO
+
+    No new features were added. This release fixed a
+    couple of multiplayer chat function bugs and cleaned up
+    the UI and the source code.
+
+PLANNED FEATURES FROM PRODUCT BACKLOG
+
+    Following features where planned for this release:
+
+    - Users can set a time limit for each player's turn.
+    - User is able to save results to database.
+    - User is able to view highscore list.
+    - Users can see each other's previous results.
+
+IMPLEMENTED FEATURES
+
+    - Fixed a bug where users in the lobby could see the chat
+      from the people in the game setup window.
+    - Removed all the UI components that had no functionality.
+
+FEATURES NOT IMPLEMENTED
+
+    - Users can set a time limit for each player's turn.
+    - User is able to save results to database.
+    - User is able to view highscore list.
+    - Users can see each other's previous results.
+
+PLANNED FEATURES FOR NEXT RELEASE
+
+    Product backlog (PRODUCTBACKLOG.txt) has been updated to 
+    correspond to the new situation.
+
+End of file.

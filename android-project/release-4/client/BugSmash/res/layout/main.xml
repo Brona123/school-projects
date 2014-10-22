@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#009B69" >
+
+    <Button
+        android:id="@+id/startGame"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="71dp"
+        android:text="Start Game" />
+
+    <Button
+        android:id="@+id/hiScore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/startGame"
+        android:layout_alignRight="@+id/startGame"
+        android:layout_below="@+id/startGame"
+        android:layout_marginTop="40dp"
+        android:text="Hi-Score" />
+
+    <Button
+        android:id="@+id/creditsButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/hiScore"
+        android:layout_alignRight="@+id/hiScore"
+        android:layout_below="@+id/hiScore"
+        android:layout_marginTop="42dp"
+        android:text="Credits" />
+
+    <Button
+        android:id="@+id/exit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/creditsButton"
+        android:layout_alignRight="@+id/creditsButton"
+        android:layout_below="@+id/creditsButton"
+        android:layout_marginTop="48dp"
+        android:text="Exit" />
+
+</RelativeLayout>

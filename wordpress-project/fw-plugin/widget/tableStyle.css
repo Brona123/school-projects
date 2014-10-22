@@ -1,0 +1,43 @@
+/**
+ * The stylesheet used by the tasklist table.
+ */
+ 
+td {
+    background-color:#888888;
+    width:30px;
+    height:24px;
+}
+
+th {
+    background-color:white;
+}
+
+table {
+    text-align:center;
+    width:100%;
+}
+
+table, tr, td, th {
+    border:2px solid black;
+    border-collapse:collapse;
+}
+
+.firstCol {
+    background-color:white;
+}
+
+.secondCol {
+    background-color:red;
+}
+
+.thirdCol {
+    background-color:yellow;
+}
+
+.fourthCol {
+    background-color:green;
+}
+
+tr:hover td {
+    background-color:silver;
+}

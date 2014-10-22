@@ -1,0 +1,42 @@
+RELEASE NOTES
+
+    File       : RELEASENOTES.txt
+    Time-stamp : 2014-05-04T20:21 Sami Joutsijoki
+    Description: Release notes for release 1.
+
+VIDEO PRESENTATION ABOUT THE RELEASE
+    
+    URL: https://vimeo.com/93873348
+
+GENERAL INFO
+
+    First map was implemented apart from the victory
+    notification. The game just stops after reaching
+    the end of the first map.
+
+PLANNED FEATURES FROM PRODUCT BACKLOG
+
+    Following features where planned for this release:
+
+    - User is able to play atleast one map
+    - User can exit the game
+
+IMPLEMENTED FEATURES
+
+    - User is able to play atleast one map
+    - User can exit the game
+
+FEATURES NOT IMPLEMENTED
+
+
+
+PLANNED FEATURES FOR NEXT RELEASE
+
+    - User can play the whole game
+    - User is able to save high score
+    - User is able to see high score
+
+    Product backlog (PRODUCTBACKLOG.txt) has been updated to 
+    correspond to the new situation.
+
+End of file.

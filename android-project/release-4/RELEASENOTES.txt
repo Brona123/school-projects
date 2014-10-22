@@ -1,0 +1,42 @@
+RELEASE NOTES
+
+    File       : RELEASENOTES.txt
+    Time-stamp : 2014-05-25T19:00 Sami Joutsijoki
+    Description: Release notes for release 4.
+
+VIDEO PRESENTATION ABOUT THE RELEASE
+    
+    URL: https://vimeo.com/96424281 gameplay
+         https://vimeo.com/96424279 code explanation
+         https://play.google.com/store/apps/details?id=fi.tamk.tiko.joutsijoki.bugsmash
+
+GENERAL INFO
+
+    All planned features were implemented, as well as
+    some minor bugfixes.
+
+PLANNED FEATURES FROM PRODUCT BACKLOG
+
+    Following features where planned for this release:
+
+    - User can hear sound effects when smashing bugs
+    - User can put on own music during the game
+
+IMPLEMENTED FEATURES
+
+    - User can hear sound effects when smashing bugs
+    - User can see performance after each stage
+    - UI improvements
+
+FEATURES NOT IMPLEMENTED
+
+    - User can put on own music during the game
+
+PLANNED FEATURES FOR NEXT RELEASE
+
+
+
+    Product backlog (PRODUCTBACKLOG.txt) has been updated to 
+    correspond to the new situation.
+
+End of file.
